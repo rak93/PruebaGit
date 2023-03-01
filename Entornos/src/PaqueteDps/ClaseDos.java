@@ -13,8 +13,8 @@ public class ClaseDos {
 
 
 	public void restar() {
-		int suma;
-		suma =cambiar * 4;
+		int sua;
+		sua =cambiar * 4;
 	}
 
 
