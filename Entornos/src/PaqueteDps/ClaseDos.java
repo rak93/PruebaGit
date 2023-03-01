@@ -14,7 +14,7 @@ public class ClaseDos {
 
 	public void restar() {
 		int suma;
-		suma =cambiar - 1;
+		suma =cambiar - 2;
 	}
 
 
