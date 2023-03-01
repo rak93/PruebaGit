@@ -1,20 +1,20 @@
 package PaqueteDps;
 
 public class ClaseDos {
-	private int numero;
+	private int cambiar;
 	private String orden;
 
 
 	public ClaseDos(int numero, String orden) {
 		super();
-		this.numero = numero;
+		this.cambiar = numero;
 		this.orden = orden;
 	}
 
 
 	public void restar() {
 		int suma;
-		suma =numero - 1;
+		suma =cambiar - 1;
 	}
 
 
